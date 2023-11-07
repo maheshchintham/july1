@@ -28,6 +28,8 @@ public class empptest {
 
 		System.out.println(a1.size());
 		System.out.println(a1);
+		system.out.println(a+a1);
+		system.out.println(a+a1);
 
 
 	}
